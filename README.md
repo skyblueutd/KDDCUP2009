@@ -4,3 +4,5 @@ It is a program to predict customers’ churn, appendence, or upselling behavior
 See details in docx
 
 I did several similar projects later than this one. See this link: https://github.com/skyblueutd/ChurnPrediction
+
+There is a paper which summarized all aspects of churn prediction: http://research.sabanciuniv.edu/39116/1/AneelaTanveer_10236886.pdf
